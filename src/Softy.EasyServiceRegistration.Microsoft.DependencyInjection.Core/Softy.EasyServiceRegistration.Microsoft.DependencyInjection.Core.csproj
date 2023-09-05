@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Microsoft Dependency Injection Easy Service Registration</Title>
+    <Authors>Roy Padina</Authors>
+    <Company>Softy</Company>
+    <Description>Microsoft DI service registration made easy using attributes</Description>
+    <PackageProjectUrl>https://github.com/roypadina/Softy.EasyServiceRegistration.Microsoft.DependencyInjection</PackageProjectUrl>
+  </PropertyGroup>
+
+
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+  </ItemGroup>
+
+</Project>

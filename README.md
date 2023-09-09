@@ -1,5 +1,7 @@
-# Softy.EasyServiceRegisteration.Microsoft.DependencyInjection
-Microsoft DI service registration made easy using attributes
+# Softy.EasyServiceRegisteration.Microsoft.DependencyInjection [![NuGet](https://img.shields.io/nuget/v/Softy.EasyServiceRegistration.Microsoft.DependencyInjection.Core)](https://www.nuget.org/packages/Softy.EasyServiceRegistration.Microsoft.DependencyInjection.Core/)
+Microsoft DI service registration made easy using attributes 
+
+
 
 Tired of adding each new service to the builder ? stop dong that!
 use easy-to-use attributes on services classes and let them be added automaticlly!
